@@ -5,4 +5,4 @@ To use the game, download the zip file, extract it, and run interface.py (you mu
 \
 Try out the cheat codes button!\
 \
-Any questions? Email me at bendeweerd2001@gmail.com\
+Any questions? Email me at bendeweerd2001@gmail.com
